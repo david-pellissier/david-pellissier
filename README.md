@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋 !
+I am David, a security student at ![HEIG-VD](https://heig-vd.ch/en) (Switzerland). As for now, this account mainly contains school projects, but I may start new ones when I have the time.
 
-<!--
-**david-pellissier/david-pellissier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My favorite languages are:
 
-Here are some ideas to get you started:
+- Rust
+- Python
+- Java
+- C++
+- Bash (Linux nerd 🐧)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience in C, Javascript (Angular, VueJS), Kotlin, PHP and PowerShell
+
+
+You can contact me on [LinkedIn](https://www.linkedin.com/in/david-pellissier/) or Discord *@Davіd#8624*
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
