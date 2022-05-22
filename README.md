@@ -1,4 +1,4 @@
-Hi there 🙃!
+Hi there 👾 !
 I am David, a security student at ![HEIG-VD](https://heig-vd.ch/en) 🇨🇭. 
 
 This account mainly contains school projects atm, but I may start new ones when I have the time.
