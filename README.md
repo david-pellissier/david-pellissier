@@ -14,4 +14,4 @@ I also have experience in C, Javascript (Angular, VueJS), Kotlin, PHP and PowerS
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/david-pellissier/) or Discord *@Davіd#8624*
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=david-pellissier)
