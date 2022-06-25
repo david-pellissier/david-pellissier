@@ -13,6 +13,6 @@ My favorite languages are:
 
 I also have experience in C, Javascript (Angular, some VueJS), Kotlin, PHP and PowerShell.
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/david-pellissier/) or Discord *@Davіd#8624*
+You can contact me on [LinkedIn](https://www.linkedin.com/in/david-pellissier/) or at [david.pellissier@protonmail.ch](mailto:david.pellissier@protonmail.ch)
 
 ![](https://komarev.com/ghpvc/?username=david-pellissier)
