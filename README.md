@@ -1,5 +1,5 @@
 Hi there 👾 !
-I am David, a security engineering student at [HEIG-VD](https://heig-vd.ch/en) 🇨🇭. 
+I am David, a *freshly* graduated security engineering student from [HEIG-VD](https://heig-vd.ch/en) 🇨🇭. 
 
 This account mainly contains school projects atm, but I may start new ones when I have the time.
 
