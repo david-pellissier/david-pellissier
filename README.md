@@ -1,5 +1,5 @@
 Hi there 👾 !
-I am David, a *freshly* graduated security engineering student from [HEIG-VD](https://heig-vd.ch/en) 🇨🇭. 
+I am David, a security engineer from Switzerland 🇨🇭. 
 
 This account mainly contains school projects atm, but I may start new ones when I have the time.
 
@@ -13,6 +13,6 @@ My favorite languages are:
 
 I also have experience in C, Javascript (Angular, some VueJS), Kotlin, PHP and PowerShell.
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/david-pellissier/) or at [david.pellissier@protonmail.ch](mailto:david.pellissier@protonmail.ch)
+You can contact me on [LinkedIn](https://www.linkedin.com/in/david-pellissier/). 
 
 ![](https://komarev.com/ghpvc/?username=david-pellissier)
